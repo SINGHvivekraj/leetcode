@@ -9,17 +9,9 @@ This repository contains my C++ solutions to LeetCode problems, categorized by d
 ## 📁 Folder Structure
 
 leetcode-solutions/
-│
-├── Easy problems/
-│ ├── ...
-│
-├── Medium problems/
-│ ├── 3439_Reschedule_Meetings_for_Maximum_Free_Time_I.cpp
-│ ├── 3440_Reschedule_Meetings_for_Maximum_Free_Time_II.cpp
-...
-│
-├── Hard problems/
-│ └── ...
+├── Easy/
+├── Medium/
+├── Hard/
 
 ## 🧰 Tools Used
 Language: C++
@@ -34,11 +26,11 @@ Platform: LeetCode
 | Medium     | 2    |
 | Hard       | 0    |
 
-I had already solved 450+ problems on leetcode but havenot uploaded them on github. But from now on I will be uploading all the problems that I solve here also.
+> Note: I had already solved 450+ problems on leetcode but havenot uploaded them on github. But from now on I will be uploading all the problems that I solve here also.
 
 ## 📫 Contact
-GitHub: https://github.com/SINGHvivekraj
+[MY GitHub Profile] (https://github.com/SINGHvivekraj)
 
-LinkedIn: https://www.linkedin.com/in/vivek-singh-52942a24a
+[My LinkedIn profile] (https://www.linkedin.com/in/vivek-singh-52942a24a)
 
-Leetcode: https://leetcode.com/u/vivek_singhh/
+[My Leetcode profile] (https://leetcode.com/u/vivek_singhh/)
