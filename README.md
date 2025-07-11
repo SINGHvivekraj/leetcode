@@ -29,8 +29,8 @@ Platform: LeetCode
 > Note: I had already solved 450+ problems on leetcode but havenot uploaded them on github. But from now on I will be uploading all the problems that I solve here also.
 
 ## 📫 Contact
-[MY GitHub Profile] (https://github.com/SINGHvivekraj)
+[MY GitHub Profile](https://github.com/SINGHvivekraj)
 
-[My LinkedIn profile] (https://www.linkedin.com/in/vivek-singh-52942a24a)
+[My LinkedIn profile](https://www.linkedin.com/in/vivek-singh-52942a24a)
 
-[My Leetcode profile] (https://leetcode.com/u/vivek_singhh/)
+[My Leetcode profile](https://leetcode.com/u/vivek_singhh/)
