@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/maximum-alternating-subsequence-sum/
+//this question is just the same as of best time to buy and sell stock 2 on leetcode with the first element to be taken as negative as we gonna 
+//buy first and then sell so need to maximize any subsequence (-+-+-+....)
 
 class Solution {
 public:
