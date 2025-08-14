@@ -22,9 +22,9 @@ Platform: LeetCode
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 0     |
-| Medium     | 2    |
-| Hard       | 0    |
+| Easy       | 04   |
+| Medium     | 13   |
+| Hard       | 01   |
 
 > Note: I had already solved 450+ problems on leetcode but havenot uploaded them on github. But from now on I will be uploading all the problems that I solve here also.
 
